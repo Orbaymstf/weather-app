@@ -56,8 +56,9 @@ Uygulama, kullanıcıların şehir adını girerek hava durumu bilgilerini almas
 2. Yeni bir özellik için bir branch oluşturun:
    ```bash
    git checkout -b yeni-ozellik
-
-git commit -m "Yeni özellik eklendi"
+    
+ ```bash
+   git commit -m "Yeni özellik eklendi"
 
 Katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
 
