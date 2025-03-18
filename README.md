@@ -1,3 +1,7 @@
+#Proje Adı
+
+Hava durumu
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -14,7 +18,30 @@ pnpm dev
 bun dev
 ```
 
+## Proje Tanıtımı
+Bu proje, kullanıcıların alışveriş yapabileceği bir e-ticaret sitesinin temel özelliklerini içeren bir uygulamadır.
 
+## Kurulum
+1. Git deposunu klonlayın:
+   ```bash
+   git clone https://github.com/kullanici_adiniz/proje_adi.git
+
+
+cd proje_adi
+npm install
+npm start
+npm start
+
+
+## Katkıda Bulunma
+1. Repo'yu fork'layın.
+2. Yeni bir özellik için bir branch oluşturun:
+   ```bash
+   git checkout -b yeni-ozellik
+
+git commit -m "Yeni özellik eklendi"
+
+git push origin yeni-ozellik
 
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
@@ -36,3 +63,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 "# weather-app" 
+
+
+
+### 6. **Lisans (License)**
+Projenizin lisansını belirtin. Projenizin açık kaynak olup olmadığını ve nasıl kullanılabileceğini burada yazın.
+
+```markdown
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
