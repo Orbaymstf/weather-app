@@ -57,7 +57,7 @@ Uygulama, kullanıcıların şehir adını girerek hava durumu bilgilerini almas
    ```bash
    git checkout -b yeni-ozellik
     
- ```bash
+
    git commit -m "Yeni özellik eklendi"
 
 Katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
