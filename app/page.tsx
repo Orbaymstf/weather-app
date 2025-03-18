@@ -28,6 +28,7 @@ export default function Home() {
   return (
     <div style={{ maxWidth: "600px", margin: "auto", padding: "20px" }}>
       <h1>Hava Durumu</h1>
+      <h2>MUstafa ORBAY</h2>
       <input
         type="text"
         placeholder="Şehir giriniz..."
